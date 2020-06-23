@@ -69,7 +69,7 @@
 				</executions>
 				<configuration>
 					<driver>org.postgresql.Driver</driver>
-					<url>jdbc:postgresql://localhost:5432/jooq</url>
+					<url>jdbc:postgresql://localhost:5432/test</url>
 					<user>postgres</user>
 					<password>root</password>
 					<baselineOnMigrate>true</baselineOnMigrate>
